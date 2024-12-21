@@ -1,5 +1,8 @@
 # Hi 👋, I'm Tarun Gowda M.R 
+
 # I am still studying engineer🧑‍💻
+
+[![](https://visitcount.itsvg.in/api?id=Tarungowda2003&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -13,6 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarungowda2003&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tarungowda2003&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

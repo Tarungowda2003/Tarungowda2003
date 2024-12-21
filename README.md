@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am still studying engineer
+# Hi 👋, I'm Tarun Gowda M.R 
+# I am still studying engineer🧑‍💻
 
 
 ## 🌐 Socials:

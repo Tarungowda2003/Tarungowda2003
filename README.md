@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tarun Gowda M.R 
 
-# I am still studying engineer🧑‍💻
+# I am still studying engineering🧑‍💻
 
 [![](https://visitcount.itsvg.in/api?id=Tarungowda2003&icon=0&color=12)](https://visitcount.itsvg.in)
 
